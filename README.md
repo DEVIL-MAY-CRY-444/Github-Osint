@@ -9,28 +9,21 @@ This tool garden git information of the target user's
 
 Clone the project
 
-```bash
-  git clone https://link-to-project
+```
+  git clone https://github.com/DEVIL-MAY-CRY-444/Github-Osint
 ```
 
 Go to the project directory
 
-```bash
-  cd my-project
+```
+  cd Github-Osint
 ```
 
 Install dependencies
 
-```bash
-  npm install
 ```
-
-Start the server
-
-```bash
-  npm run start
+  python git_info.py
 ```
-
 
 ##Screenshot 
 
